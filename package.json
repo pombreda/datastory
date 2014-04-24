@@ -1,0 +1,34 @@
+{
+  "name": "datastory",
+  "version": "0.0.1",
+  "description": "A template for telling stories with data.",
+  "keywords": [
+    "d3",
+    "visualization",
+    "chart",
+    "data",
+    "ddj",
+    "story",
+    "template"
+  ],
+  "author": {
+    "name": "Ramiro Gómez",
+    "url": "http://ramiro.org"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yaph/d3-geomap.git"
+  },
+  "dependencies": {
+    "d3": "~3.4.4"
+  },
+  "devDependencies": {
+    "gulp": "~3.6.0",
+    "gulp-coffee": "~1.4.1",
+    "gulp-concat": "~2.2.0",
+    "gulp-uglify": "~0.2.1",
+    "gulp-connect": "~2.0.4",
+    "gulp-ruby-sass": "~0.4.1"
+  }
+}

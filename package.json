@@ -21,7 +21,8 @@
     "url": "https://github.com/yaph/d3-geomap.git"
   },
   "dependencies": {
-    "d3": "~3.4.4"
+    "angular": "^1.2.16",
+    "d3": "^3.4.6"
   },
   "devDependencies": {
     "gulp": "~3.6.0",
